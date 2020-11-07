@@ -1,0 +1,1 @@
+sudo docker run -it --gpus all -v /home/drf/code/imgDL:/home/code/imgDL --rm tensorflow/tensorflow:1.10.0-gpu-py3 bash
